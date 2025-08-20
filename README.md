@@ -7,7 +7,8 @@ The turtles move forward at random speeds, and the first one to cross the finish
 
 ## 📸 Gameplay Preview
 
-(1.png)
+![Turtle Race Screenshot](1.png)
+![Turtle Race Screenshot](2.png)
 
 ---
 
